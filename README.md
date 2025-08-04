@@ -44,9 +44,8 @@ For those interested in a more comprehensive overview of the leaderboard, please
 
 # 🔧 Data Construction Pipline
 
-
 <p align="center">
-  <img src="image/overview.png" width="800px"/>
+  <img src="image/overveiwv3_final-1.png" width="800px"/>
 </p>
 
 
