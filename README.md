@@ -37,7 +37,7 @@ This refined architecture ensures a robust framework for assessing safety in MLL
 
 Here, we present the ASR rankings of various models:
 <p align="center">
-  <img src="image/leaderboard.png" width="800px"/>
+  <img src="image/learderboard_v1.png" width="800px"/>
 </p>
 For those interested in a more comprehensive overview of the leaderboard, please click the "Leaderboard" button located below the heading.
 
