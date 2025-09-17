@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://arxiv.org/abs/2505.23793">📝 Paper</a> •
   <a href="https://huggingface.co/datasets/cgjacklin/USB/tree/main">🤗 Dataset</a> •
-  <a href="https://anonymous.4open.science/r/USB-SafeBench-4EE3/README.md">💻 Code</a> •
+  <a href="https://anonymous.4open.science/r/USB-SafeBench-4EE3">💻 Code</a> •
   <a href="https://hongqiong12.github.io/usb_for_leadboard/">🏆 Leaderboard</a>
 </div>
 
