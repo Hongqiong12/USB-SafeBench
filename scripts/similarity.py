@@ -13,7 +13,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 def calculate_similarity(o):
     
-    # 读取特征数据
+
     sql = """
     """
     
