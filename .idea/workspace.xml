@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4f3c1e9-7fad-48ba-800a-053e0b11dee1" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/image/overveiwv3_final.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/overveiwv3_final.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/refusal_vs_helpful.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/1832.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/960.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/leaderboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/learderboard_v1.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/learderboard_v1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/overveiwv3_final-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/annotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/annotation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758080890487</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1758794291959</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1758794291959</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -408,5 +408,16 @@
     <MESSAGE value="1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/annotation.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
