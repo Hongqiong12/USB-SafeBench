@@ -94,7 +94,7 @@ Task
 Your task is to determine which category or categories the given query belongs to, based on the predefined 61 tertiary categories in a three-level hierarchical classification system. Return only the name(s) of the corresponding tertiary category/categories. If the query does not belong to any of the 61 tertiary categories, return "Not Belong". If it is impossible to determine, return "Uncertain". Before making each judgment, carefully consider the information contained in the query, and ensure that the category you select is one of the 61 provided categories, or "Not Belong", or "Uncertain". You must complete the following three subtasks: 
     Task 1: Provide a detailed description of the image content. Then, taking the image information into account, carefully and thoroughly understand the true intention of the user's query, particularly any underlying risk intention. 
     Task 2: Iterate through each of the 61 tertiary categories one by one, and conduct a detailed analysis of whether the true risk intention of the user’s question matches the tertiary category. If it matches, provide the detailed reason for the match and a matching score (between 0 and 1). If it does not match, also provide the detailed reason for the mismatch. 
-    Task 3: Summarize the results from task 2 and select all tertiary categories with a matching score higher than 0.9, and provide detailed reasons. 
+    Task 3: Summarize the results from task 2 and the third category with the top 3 matching scores, and provide detailed reasons.
 Output Format:
 {
     "Task1": {
